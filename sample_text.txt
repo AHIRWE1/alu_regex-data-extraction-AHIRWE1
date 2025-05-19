@@ -1,0 +1,22 @@
+# ===================== Emails =====================
+user@example.com
+firstname.lastname@company.co.uk
+test_user123@domain.io
+
+# ===================== URLs =====================
+https://www.example.com
+https://subdomain.example.org/page
+
+# ===================== Phone Numbers =====================
+(123) 456-7890
+123-456-7890
+123.456.7890
+
+# ===================== Currency Amounts =====================
+$19.99
+$1,234.56
+
+# ===================== HTML Tags =====================
+<p>This is a paragraph.</p>
+<div class="example">A div with a class</div>
+<img src="image.jpg" alt="description">
